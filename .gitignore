@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+vendor/
+/frontend/dist/
+/backend/storage/*.key
+/backend/storage/logs/*.log
+/backend/bootstrap/cache/*
+.phpunit.result.cache
+.DS_Store
+Thumbs.db

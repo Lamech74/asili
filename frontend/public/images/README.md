@@ -1,0 +1,1 @@
+Place the supplied brand asset here as `asili-naturals-logo.png` when it is available. The current foundation uses a text mark until the original logo file is provided; it should be used unchanged as the primary brand asset.
